@@ -14,7 +14,7 @@ class Solution:
             else:
                 i += 1
         return False
-
+# 本地测试
 so = Solution()
 print(so.Find(5,[[1,2,3],[2,3,4]]))
 
