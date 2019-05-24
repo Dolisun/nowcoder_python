@@ -18,3 +18,5 @@ class Solution:
         for i in range(len(self.stack2)):
             self.stack1.append(self.stack2.pop())
         return out
+
+
