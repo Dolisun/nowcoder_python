@@ -11,4 +11,4 @@ class Solution:
             f3 = f1 + f2
             f1 = f2
             f2 = f3
-        return  f3
+        return f3
